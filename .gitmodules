@@ -16,3 +16,6 @@
 [submodule "lib/EasyIterator"]
 	path = lib/EasyIterator
 	url = https://github.com/TheLartians/EasyIterator
+[submodule "lib/rapidyaml"]
+	path = lib/rapidyaml
+	url = https://github.com/biojppm/rapidyaml.git
